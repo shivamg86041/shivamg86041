@@ -1,7 +1,7 @@
 ![logo](https://github.com/Shivamg86041/Shivamg86041/blob/main/ssss.jpeg)
 
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
